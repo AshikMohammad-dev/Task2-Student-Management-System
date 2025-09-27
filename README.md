@@ -7,10 +7,10 @@ Created a Student class with id, name, and marks (encapsulation with getters/set
 
 - Used ArrayList to store student objects.
 -Implemented full CRUD operations:
--- Add Student
--- View Students
--- Update Student
--- Delete Student
+ Add Student
+ View Students
+ Update Student
+ Delete Student
 -Used Scanner for user input.
 - Built a menu-driven program with switch-case for multiple operations.
 - Overrode toString() for clean student record display.
